@@ -60,6 +60,7 @@ pyrsistent==0.19.2
 python-dateutil==2.8.2
 python-dotenv==0.21.0
 pywinpty==2.0.9
+PyQt5==5.15.5
 pyzmq==24.0.1
 Send2Trash==1.8.0
 six==1.16.0
